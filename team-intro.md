@@ -19,3 +19,7 @@ Add your name + fun fact below! One person per line/section.
 
 - **Name**: Kobe
 - **Fun Fact**: Sleep is my enemy
+
+- **Name** Sanele
+- **Fun Fact**: I have 7 belly buttons.
+  
