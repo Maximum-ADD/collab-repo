@@ -18,4 +18,4 @@ Add your name + fun fact below! One person per line/section.
 - **Fun Fact**: Andrew once learned a full song in binary just to annoy someone.
 
 - **Name**: Kobe
-- **Fun Fact**: Sleep is my enenmy
+- **Fun Fact**: Sleep is my enemy
