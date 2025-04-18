@@ -13,6 +13,6 @@ Add your name + fun fact below! One person per line/section.
 
 - **Name**: Adrian
 - **Fun Fact**: I beat women
- 
--**Name**: Jonaphan
+
+-  **Name**: Jonaphan
 - **Fun Fact**: Andrew once learned a full song in binary just to annoy someone.
