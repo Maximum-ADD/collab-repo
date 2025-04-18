@@ -7,3 +7,6 @@
 ---
 
 Add your name + fun fact below! One person per line/section.
+
+- **Name**: Josh
+- **Fun Fact**: My name is Josh
