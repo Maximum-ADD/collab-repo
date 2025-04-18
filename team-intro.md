@@ -21,8 +21,7 @@ Add your name + fun fact below! One person per line/section.
 - **Fun Fact** :i wont lie im dying man
 
 - **Name**: Kobe
-- **Fun Fact**: Sleep is my enemy
+- **Fun Fact**: I need season 3 of Sololeveling and Kimetsu no Yaiba season 5
 
 - **Name** Sanele
 - **Fun Fact**: I have 7 belly buttons
-  
