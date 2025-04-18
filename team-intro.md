@@ -18,11 +18,11 @@ Add your name + fun fact below! One person per line/section.
 - **Fun Fact**: I'm a foreigner :)
 
 - **Name**:Langelihle
-- **Fun Fact** : im thinking of quitting this degree i wont lie im dying man
+- **Fun Fact** :i wont lie im dying man
 
 - **Name**: Kobe
 - **Fun Fact**: Sleep is my enemy
 
 - **Name** Sanele
-- **Fun Fact**: I have 7 belly buttons.
+- **Fun Fact**: I have 7 belly buttons
   
