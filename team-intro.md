@@ -24,5 +24,5 @@ Add your name + fun fact below! One person per line/section.
 - **Fun Fact**: Sleep is my enemy
 
 - **Name** Sanele
-- **Fun Fact**: I have 7 belly buttons.
+- **Fun Fact**: I have 7 belly buttons(2nd attemp from own branch).
   
