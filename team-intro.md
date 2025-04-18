@@ -15,7 +15,7 @@ Add your name + fun fact below! One person per line/section.
 - **Fun Fact**: I beat women
 
 -  **Name**: Jonaphan
-- **Fun Fact**: Andrew once learned a full song in binary just to annoy someone.
+- **Fun Fact**: I'm a foreigner :)
 
 - **Name**:Langelihle
 - **Fun Fact** : im thinking of quitting this degree i wont lie im dying man
