@@ -28,4 +28,5 @@ testing the push from branch
 - **Fun Fact**: I need season 3 of Sololeveling and Kimetsu no Yaiba season 5
 
 - **Name** Sanele
-- **Fun Fact**: I have 7 belly buttons
+- **Fun Fact**: I have 7 belly buttons(2nd attemp from own branch)
+  
