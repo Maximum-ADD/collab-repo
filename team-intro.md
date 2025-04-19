@@ -18,7 +18,7 @@ testing the push from branch
 - **Name**: Adrian
 - **Fun Fact**: I beat women
 
--  **Name**: Jonaphan
+- **Name**: Jonaphan
 - **Fun Fact**: I'm a foreigner :)
 
 - **Name**:Langelihle
