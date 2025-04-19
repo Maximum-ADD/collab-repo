@@ -15,7 +15,13 @@ Add your name + fun fact below! One person per line/section.
 - **Fun Fact**: I beat women
 
 - **Name**: Jonaphan
-- **Fun Fact**: Andrew once learned a full song in binary just to annoy someone.
+- **Fun Fact**: I'm a foreigner :)
+
+- **Name**:Langelihle
+- **Fun Fact** :i wont lie im dying man
 
 - **Name**: Kobe
 - **Fun Fact**: I need season 3 of Sololeveling and Kimetsu no Yaiba season 5
+
+- **Name** Sanele
+- **Fun Fact**: I have 7 belly buttons
