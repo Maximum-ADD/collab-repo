@@ -29,4 +29,7 @@ testing the push from branch
 
 - **Name** Sanele
 - **Fun Fact**: I have 7 belly buttons(2nd attemp from own branch)
+
+**Name**: Karabo
+**Fun Fact**: A chicken once lived 18 months headless
   
